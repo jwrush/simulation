@@ -4,6 +4,7 @@ import (
 	"fmt"
 	//"simulation"
 	"simulation/lib/fight"
+	"simulation"
 )
 
 func main() {
